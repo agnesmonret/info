@@ -1,0 +1,11 @@
+input: .
+output: build
+url: # Add your website address here
+branding:
+  title: AGN Service
+  label: v1.2 BETA
+links:
+- text: Discord
+  link: https://discord.gg/sRUamEwcCp
+footer:
+  copyright: "&copy; AGN Copyright {{ year }}. All rights reserved."
